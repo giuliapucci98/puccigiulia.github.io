@@ -2,22 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Giulia Pucci, PhD",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I am a PhD student in applied mathematics at KTH in Stockholm, Sweden. I completed both my bachelor’s and master’s degrees at La Sapienza University in Rome. My research focuses on Stochastic control theory with application to Pollution and Energy Markets.\nInterests: Control Theory, Stochastic Calculus, SDE, BSDE, ML and Neural Networks, Energy Markets, Mathematical Finance, Pollution Control\n\n\n\nIf you have any questions about my work or are interested in collaborating, please don’t hesitate to contact me."
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Giulia Pucci, PhD",
+    "section": "",
+    "text": "I am a PhD student in applied mathematics at KTH in Stockholm, Sweden. I completed both my bachelor’s and master’s degrees at La Sapienza University in Rome. My research focuses on Stochastic control theory with application to Pollution and Energy Markets.\nInterests: Control Theory, Stochastic Calculus, SDE, BSDE, ML and Neural Networks, Energy Markets, Mathematical Finance, Pollution Control"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "index.html#inquiries",
+    "href": "index.html#inquiries",
+    "title": "Giulia Pucci, PhD",
+    "section": "",
+    "text": "If you have any questions about my work or are interested in collaborating, please don’t hesitate to contact me."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Preprints\nGozzi, F., Leoocata, M., & Pucci, G., Network-Based Optimal Control of Pollution Growth, arXiv preprint, arXiv:2406.15338, 2024.\n\n\n2023\nAgram, N., Pucci, G., & Øksendal, B. (2024). Impulse Control of Conditional McKean–Vlasov Jump Diffusions. Journal of Optimization Theory and Applications, 1-31"
   }
 ]
