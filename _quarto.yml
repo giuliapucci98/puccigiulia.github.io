@@ -14,6 +14,7 @@ website:
         href: https://www.linkedin.com/in/giulia-pucci/
       - icon: envelope
         url: mailto:pucci@kth.se
+        
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023, YOUR NAME"
