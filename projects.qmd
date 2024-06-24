@@ -9,5 +9,5 @@ editor: visual
 ### Preprints
 Gozzi, F., Leoocata, M., & Pucci, G., [Network-Based Optimal Control of Pollution Growth](https://arxiv.org/abs/2406.15338), arXiv preprint, arXiv:2406.15338, 2024.
 
-### 2023
+### 2024
 Agram, N., Pucci, G., & Øksendal, B. (2024). [Impulse Control of Conditional McKean–Vlasov Jump Diffusions](https://link.springer.com/article/10.1007/s10957-023-02370-6). Journal of Optimization Theory and Applications, 1-31
