@@ -21,7 +21,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: sky
     toc: true
 
 editor: source

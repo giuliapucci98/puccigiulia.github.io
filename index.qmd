@@ -1,6 +1,7 @@
 ---
 title: "Giulia Pucci, PhD"
 image: img/giulia.jpg
+#image: ![Giulia Pucci](img/giulia.jpg){.small-image}
 about:
   template: trestles
   links:
