@@ -7,6 +7,11 @@ editor: visual
 
 
 ### Preprints
+
+
+
+Agram, N., Benth, F. E. & Pucci, G., [Installation of renewable capacities to meet emission targets and demand under uncertainty](https://arxiv.org/abs/2407.05774), arXiv preprint, arXiv:2407.05774, 2024.
+
 Gozzi, F., Leoocata, M., & Pucci, G., [Network-Based Optimal Control of Pollution Growth](https://arxiv.org/abs/2406.15338), arXiv preprint, arXiv:2406.15338, 2024.
 
 ### 2024
