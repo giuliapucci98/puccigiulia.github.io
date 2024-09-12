@@ -3,8 +3,8 @@ title: "Giulia Pucci, PhD"
 #image: ![Giulia Pucci](img/giulia.jpg){.small-image}
 about:
   template: trestles
-  image: img/giulia.jpg
-  image-width: 180px
+  image: img/giulia3.jpeg
+  image-width: 300px
   links:
     - text: LinkedIn
       icon: linkedin
