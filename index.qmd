@@ -4,7 +4,7 @@ title: "Giulia Pucci, PhD"
 about:
   template: trestles
   image: img/giulia3.jpeg
-  image-width: 280px
+  image-width: 270px
   links:
     - text: LinkedIn
       icon: linkedin
