@@ -1,5 +1,5 @@
 ---
-title: "Giulia Pucci, PhD"
+title: "Giulia Pucci"
 #image: ![Giulia Pucci](img/giulia.jpg){.small-image}
 about:
   template: trestles
