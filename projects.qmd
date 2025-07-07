@@ -3,16 +3,20 @@ title: "Publications"
 format: html
 editor: visual
 ---
+### Publications
 
+Agram, N., Espen Benth, F., & Pucci, G. (2025). [Installation of Renewable Capacities to Meet Energy Demand and Emission Constraints under Uncertainty](https://academic.oup.com/imaman/advance-article/doi/10.1093/imaman/dpaf023/8163474). *IMA Journal of Management Mathematics*, dpaf023.
 
+Agram, N., Pucci, G., & Øksendal, B. (2024). [Impulse Control of Conditional McKean–Vlasov Jump Diffusions](https://link.springer.com/article/10.1007/s10957-023-02370-6). *Journal of Optimization Theory and Applications*, 200(3), 1100–1130.
 
 ### Preprints
 
 
+Agram, N., & Pucci, G. (2025). [Deep BSVIEs Parametrization and Learning-Based Applications](https://arxiv.org/abs/2507.01948). *arXiv preprint*, arXiv:2507.01948.
 
-Agram, N., Benth, F. E. & Pucci, G., [Installation of renewable capacities to meet emission targets and demand under uncertainty](https://arxiv.org/abs/2407.05774), arXiv preprint, arXiv:2407.05774, 2024.
 
-Gozzi, F., Leocata, M., & Pucci, G., [Network-Based Optimal Control of Pollution Growth](https://arxiv.org/abs/2406.15338), arXiv preprint, arXiv:2406.15338, 2024.
+Agram, N., Øksendal, B., Arharas, I., Rems, J., & Pucci, G. (2025). [Deep Learning for Energy Market Contracts: Dynkin Game with Doubly RBSDEs](https://arxiv.org/abs/2503.00880). *arXiv preprint*, arXiv:2503.00880.
 
-### 2024
-Agram, N., Pucci, G., & Øksendal, B. (2024). [Impulse Control of Conditional McKean–Vlasov Jump Diffusions](https://link.springer.com/article/10.1007/s10957-023-02370-6). Journal of Optimization Theory and Applications, 1-31.
+
+Gozzi, F., Leocata, M., & Pucci, G. (2024). [Network-Based Optimal Control of Pollution Growth](https://arxiv.org/abs/2406.15338). *arXiv preprint*, arXiv:2406.15338.
+

@@ -1,10 +1,10 @@
 ---
 title: "Giulia Pucci"
-#image: ![Giulia Pucci](img/giulia.jpg){.small-image}
+#image: ![Giulia Pucci](img/giulia4.jpg){.small-image}
 about:
   template: trestles
-  image: img/giulia3.jpeg
-  image-width: 270px
+  image: img/giulia4.jpg
+  image-width: 200px
   links:
     - text: LinkedIn
       icon: linkedin
@@ -21,7 +21,7 @@ comments: false
 ::: {.column-page}
 
 ## About me
-I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor's and Master's degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory with applications in Energy Markets, Finance and Pollution. 
+I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor's and Master's degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory.
 
 
 You can view my CV [here](cv.pdf).

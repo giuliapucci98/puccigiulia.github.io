@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Giulia Pucci",
     "section": "",
-    "text": "I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor’s and Master’s degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory with applications in Energy Markets, Finance and Pollution.\nYou can view my CV here.\nInterests: Control Theory, Stochastic Calculus, SDEs, BSDEs, ML and Neural Networks, Energy Markets, Mathematical Finance, Pollution Control\n\n\n\nIf you have any questions about my work or are interested in collaborating, please don’t hesitate to contact me."
+    "text": "I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor’s and Master’s degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory.\nYou can view my CV here.\nInterests: Control Theory, Stochastic Calculus, SDEs, BSDEs, ML and Neural Networks, Energy Markets, Mathematical Finance, Pollution Control\n\n\n\nIf you have any questions about my work or are interested in collaborating, please don’t hesitate to contact me."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Giulia Pucci",
     "section": "",
-    "text": "I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor’s and Master’s degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory with applications in Energy Markets, Finance and Pollution.\nYou can view my CV here.\nInterests: Control Theory, Stochastic Calculus, SDEs, BSDEs, ML and Neural Networks, Energy Markets, Mathematical Finance, Pollution Control"
+    "text": "I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor’s and Master’s degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory.\nYou can view my CV here.\nInterests: Control Theory, Stochastic Calculus, SDEs, BSDEs, ML and Neural Networks, Energy Markets, Mathematical Finance, Pollution Control"
   },
   {
     "objectID": "index.html#inquiries",
@@ -25,6 +25,6 @@
     "href": "projects.html",
     "title": "Publications",
     "section": "",
-    "text": "Preprints\nAgram, N., Benth, F. E. & Pucci, G., Installation of renewable capacities to meet emission targets and demand under uncertainty, arXiv preprint, arXiv:2407.05774, 2024.\nGozzi, F., Leocata, M., & Pucci, G., Network-Based Optimal Control of Pollution Growth, arXiv preprint, arXiv:2406.15338, 2024.\n\n\n2024\nAgram, N., Pucci, G., & Øksendal, B. (2024). Impulse Control of Conditional McKean–Vlasov Jump Diffusions. Journal of Optimization Theory and Applications, 1-31."
+    "text": "Publications\nAgram, N., Espen Benth, F., & Pucci, G. (2025). Installation of Renewable Capacities to Meet Energy Demand and Emission Constraints under Uncertainty. IMA Journal of Management Mathematics, dpaf023.\nAgram, N., Pucci, G., & Øksendal, B. (2024). Impulse Control of Conditional McKean–Vlasov Jump Diffusions. Journal of Optimization Theory and Applications, 200(3), 1100–1130.\n\n\nPreprints\nAgram, N., & Pucci, G. (2025). Deep BSVIEs Parametrization and Learning-Based Applications. arXiv preprint, arXiv:2507.01948.\nAgram, N., Øksendal, B., Arharas, I., Rems, J., & Pucci, G. (2025). Deep Learning for Energy Market Contracts: Dynkin Game with Doubly RBSDEs. arXiv preprint, arXiv:2503.00880.\nGozzi, F., Leocata, M., & Pucci, G. (2024). Network-Based Optimal Control of Pollution Growth. arXiv preprint, arXiv:2406.15338."
   }
 ]
