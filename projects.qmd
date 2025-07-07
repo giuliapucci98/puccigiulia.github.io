@@ -8,11 +8,14 @@ editor: visual
 
 ### Preprints
 
+Gozzi, F., Leocata, M., & Pucci, G. (2024). Network-Based Optimal Control of Pollution Growth. arXiv preprint arXiv:2406.15338.
 
+Agram, N., Arharas, I., Pucci, G., & Rems, J. (2025). Deep Learning for Energy Market Contracts: Dynkin Game with Doubly RBSDEs. arXiv preprint arXiv:2503.00880.
 
-Agram, N., Benth, F. E. & Pucci, G., [Installation of renewable capacities to meet emission targets and demand under uncertainty](https://arxiv.org/abs/2407.05774), arXiv preprint, arXiv:2407.05774, 2024.
-
-Gozzi, F., Leocata, M., & Pucci, G., [Network-Based Optimal Control of Pollution Growth](https://arxiv.org/abs/2406.15338), arXiv preprint, arXiv:2406.15338, 2024.
+Agram, N., & Pucci, G. (2025). Deep BSVIEs Parametrization and Learning-Based Applications. arXiv preprint arXiv:2507.01948.
 
 ### 2024
-Agram, N., Pucci, G., & Øksendal, B. (2024). [Impulse Control of Conditional McKean–Vlasov Jump Diffusions](https://link.springer.com/article/10.1007/s10957-023-02370-6). Journal of Optimization Theory and Applications, 1-31.
+Agram, N., Pucci, G., & Øksendal, B. (2024). Impulse Control of Conditional McKean–Vlasov Jump Diffusions. Journal of Optimization Theory and Applications, 200(3), 1100-1130.
+
+### 2025
+Agram, N., Espen Benth, F., & Pucci, G. (2025). Installation of renewable capacities to meet energy demand and emission constraints under uncertainty. IMA Journal of Management Mathematics, dpaf023.
