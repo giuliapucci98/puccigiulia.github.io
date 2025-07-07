@@ -3,7 +3,7 @@ title: "Giulia Pucci"
 #image: ![Giulia Pucci](img/giulia.jpg){.small-image}
 about:
   template: trestles
-  image: img/giulia3.jpeg
+  image: img/giulia4.jpg
   image-width: 270px
   links:
     - text: LinkedIn
